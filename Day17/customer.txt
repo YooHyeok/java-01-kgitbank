@@ -1,0 +1,4 @@
+유재혁,남,yjk7454@naver.com,28
+홍길동,남,abcde@naver.com,17
+정하용,남,hassnsw@daum.net,15
+김채린,여,haksj2@chollian.net,19
